@@ -6,7 +6,7 @@
 
 ## 🎛 I'm currently working on
 
-#### React
+### React
 
 ## 🥬  GitHub Stats 
 
