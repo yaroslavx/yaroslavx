@@ -1,16 +1,23 @@
-### Hi there 👋
+<h3 align="center">
+Hi there, I'm Yaroslav 👋
+</h3>
 
-<!--
-**yaroslavx/yaroslavx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+I'm a Frontend Developer 💻!
+</h2> 
 
-Here are some ideas to get you started:
+I love the entire process of developing apps. I love the challenge of finding caches and spending time to meet new people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I'm currently working on
+
+- React projects
+
+## 🌱 I'm currently learning
+
+- React
+
+## 📈 GitHub Stats 
+
+[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yaroslavx.yaroslavx)](https://y-wheat-eight.vercel.app/)
