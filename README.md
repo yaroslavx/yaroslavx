@@ -1,23 +1,18 @@
-<h3 align="center">
+<h1>
 Hi there, I'm Yaroslav 👋
-</h3>
+</h1>
 
-<h2 align="center">
+<h2 >
 I'm a Frontend Developer 💻!
 </h2> 
 
 I love the entire process of developing apps. I love the challenge of finding caches and spending time to meet new people.
 
-## 🔭 I'm currently working on
-
-- React projects
-
-## 🌱 I'm currently learning
+## ⚙️ I'm currently working on
 
 - React
 
-## 📈 GitHub Stats 
+## 🥬 GitHub Stats 
 
-[![Yu's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx)
+[![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yaroslavx.yaroslavx)](https://y-wheat-eight.vercel.app/)
