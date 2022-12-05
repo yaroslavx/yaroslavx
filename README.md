@@ -1,4 +1,4 @@
-# Hi there, I'm Yaroslav  👋
+# Hi there, I'm Yaroslav  😁
 
 # I'm a Frontend Developer  ⌨️
 
