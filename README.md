@@ -8,7 +8,7 @@
 
 ### React
 
-<!-- ## 🥬  GitHub Stats 
+# 🥬  GitHub Stats 
 
-[![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx) -->
+[![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx)
 
