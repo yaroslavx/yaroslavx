@@ -11,5 +11,5 @@
 # 🥬  GitHub Stats 
 
 <!-- [![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx) -->
-[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavx&bg_color=#ffffff,1e2430&count_private=true&border_radius=15&border_color=#fefefe&layout=compact&card_width=250&hide_border=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+[![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaroslavx&bg_color=#ffffff&count_private=true&border_radius=15&e&layout=compact&card_width=250&hide_border=true&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
