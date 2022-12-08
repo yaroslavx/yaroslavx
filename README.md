@@ -3,8 +3,8 @@
 ## I love the entire process of developing apps. I love the challenge of finding caches and spending time to meet new people.
 # 🎛 I'm currently working on
 ## React
-# 🎛 I'm currently working on
-## React
+# 🤖 I am interested in
+## Machine learning
 # 🥬  GitHub Stats 
 
 <!-- [![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx) -->
