@@ -6,7 +6,7 @@ React ecosystem
 ## 🤖 I am interested in
 Deep learning
 ## NPM and Docker
-[NPM](https://www.npmjs.com/~yaroslavxx)
+[NPM](https://www.npmjs.com/~yaroslavxx)\
 [Docker](https://hub.docker.com/u/yaroslavx)
 ## 🥬  GitHub Stats 
 
