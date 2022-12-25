@@ -4,8 +4,7 @@ I love the entire process of developing apps. I love the challenge of finding ca
 ## 🎛 I'm currently working on
 React ecosystem
 ## 📚 I'm interested in...
-Deep learning and Data analysis\
-and Vim...
+Deep learning and Data analysis
 ## 📎 My [NPM](https://www.npmjs.com/~yaroslavxx) and [Docker Hub](https://hub.docker.com/u/yaroslavx)
 ## 🥬  GitHub Stats 
 <!-- [![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx) -->
