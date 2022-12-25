@@ -8,7 +8,7 @@ Deep learning and Data analysis\
 .\
 .\
 .\
-and Vim...\
+and Vim...
 ## 📎 My [NPM](https://www.npmjs.com/~yaroslavxx) and [Docker Hub](https://hub.docker.com/u/yaroslavx)
 ## 🥬  GitHub Stats 
 <!-- [![Yaroslav's github stats](https://github-readme-stats.vercel.app/api?username=yaroslavx)](https://github.com/yaroslavx) -->
