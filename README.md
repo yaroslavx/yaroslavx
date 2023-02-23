@@ -2,7 +2,7 @@
 <!-- ## I'm a Frontend Developer  ⌨️ -->
 I love the entire process of developing apps. I love the challenge of finding caches and spending time to meet new people.
 ## 🎛 I'm currently working on
-Frontend
+Web developing
 ## 📚 I'm interested in...
 Deep learning and Data analysis
 ## 📎 My [NPM](https://www.npmjs.com/~yaroslavxx) and [Docker Hub](https://hub.docker.com/u/yaroslavx)
