@@ -1,4 +1,4 @@
-# Hi everyone  😁  I'm Yaroslav, a Frontend Dev  ⌨️
+# Hi everyone  😁  I'm Yaroslav, a software engineer  ⌨️
 I love the entire process of developing apps. I love the challenge of finding caches and spending time to meet new people.
 ## 🎛 I'm currently working on
 Web development
