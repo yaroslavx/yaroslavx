@@ -1,5 +1,5 @@
-# Hi everyone  😁  i'm Yaroslav, a software engineer 
-I love the entire process of developing apps. I love the challenge of finding caches and spending time to meet new people.
+# Hi  😁  i'm Yaroslav 
+I love the entire process of developing apps, the challenge of finding caches and spending time to meet new people.
 ## 🎛 I'm currently working on
 Web development
 # 📎 My [NPM](https://www.npmjs.com/~yaroslavxx) and [Docker Hub](https://hub.docker.com/u/yaroslavx)
