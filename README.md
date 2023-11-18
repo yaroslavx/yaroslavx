@@ -1,4 +1,4 @@
-# Hi  😁  i'm Yaroslav 
+# Hi   😁    i'm Yaroslav 
 I love the entire process of developing apps, the challenge of finding caches and spending time to meet new people.
 ## 🎛 I'm currently working on
 Web development
